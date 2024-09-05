@@ -1,0 +1,4 @@
+Este es un ejemplo de texto.
+Contiene varias palabras para contar.
+El propósito de este archivo es ser procesado por un programa en C++.
+Cada hilo contará las palabras en su sección asignada.
